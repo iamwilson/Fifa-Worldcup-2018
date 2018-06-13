@@ -1,6 +1,6 @@
 Simple Predictoin Model for the 2018 World Cup
 
-Notes
+Notes 
 
 --spi_a = sporting index
 -pHigh = Highest probability Score
