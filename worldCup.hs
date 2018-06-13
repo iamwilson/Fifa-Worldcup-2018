@@ -37,7 +37,7 @@ data Team = RUS | SDA | EGP | URG |
             BEL | PAN | TUN | ENG |
             POL | SEN | COL | JPN | deriving (Show,Eq,Ord)		
 
--- Fifa World Rankings & ELO Rating Sport Index || Updated As of 13st June 2018
+-- Fifa World Rankings & ELO Rating Sport Index || Updated As of 13th June 2018
 
 let fFRA = 1987, sFRA = 91.0 
     fCRT = 1853, sCRT = 78.5
@@ -163,7 +163,7 @@ winner m x y = case result of
 
                 spi_a = (((sARG) / (sARG + sSWZ)) * 100)
                 spi_b = (((sSWZ) / (sARG + sSWZ)) * 100)
-                
+
                 winner = (prob_a > prob_b) ? "Argentina" : "Switzerland"
                 pHigh = (spi_a > spi_b) ? spi_a : spi_b 
                 set = winner
