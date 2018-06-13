@@ -1,0 +1,50 @@
+Group	Rank	Team A	    Team B
+
+A	65	Russia	2	-	0	Saudi Arabia
+A	30	Egypt	0	-	1	Uruguay
+B	48	Morocco	0	-	0	Iran
+B	3	Portugal	0	-	1	Spain
+C	7	France	2	-	0	Australia
+D	4	Argentina	2	-	0	Iceland
+C	10	Peru	2	-	1	Denmark
+D	18	Croatia	1	-	0	Nigeria
+E	22	Costa Rica	0	-	0	Serbia
+F	1	Germany	1	-	0	Mexico
+E	2	Brazil	2	-	0	Switzerland
+F	25	Sweden	1	-	1	South Korea
+G	5	Belgium	2	-	0	Panama
+G	28	Tunisia	0	-	2	England
+H	6	Poland	1	-	0	Senegal
+H	13	Colombia	1	-	0	Japan
+A	65	Russia	0	-	2	Egypt
+B	3	Portugal	2	-	1	Morocco
+A	17	Uruguay	2	-	0	Saudi Arabia
+B	34	Iran	0	-	2	Spain
+C	7	France	2	-	1	Peru
+C	19	Denmark	1	-	0	Australia
+D	4	Argentina	2	-	1	Croatia
+E	2	Brazil	2	-	0	Costa Rica
+D	41	Nigeria	1	-	1	Iceland
+E	38	Serbia	2	-	0	Switzerland
+G	5	Belgium	2	-	0	Tunisia
+F	1	Germany	3	-	0	Sweden
+F	62	South Korea	1	-	2	Mexico
+G	12	England	2	-	1	Panama
+H	44	Japan	0	-	2	Senegal
+H	6	Poland	1	-	2	Colombia
+A	17	Uruguay	2	-	0	Russia
+A	63	Saudi Arabia	0	-	2	Egypt
+B	8	Spain	3	-	1	Morocco
+B	34	Iran	0	-	2	Portugal
+C	19	Denmark	0	-	2	France
+C	43	Australia	0	-	1	Peru
+D	21	Iceland	1	-	1	Croatia
+D	41	Nigeria	0	-	2	Argentina
+F	16	Mexico	2	-	1	Sweden
+F	62	South Korea	0	-	4	Germany
+E	38	Serbia	1	-	3	Brazil
+E	11	Switzerland	2	-	1	Costa Rica
+H	32	Senegal	1	-	3	Colombia
+H	44	Japan	1	-	2	Poland
+G	12	England	1	-	2	Belgium
+G	49	Panama	1	-	1	Tunisia
